@@ -1,0 +1,48 @@
+{
+ "signatures": [
+  {
+   "keyid": "f479a31c0727e47575b65111c1e35412fefc4050d5568db1080cc1cd5d85a921",
+   "sig": "cdc697f1606e638c1cb5bed41c2032a66a02f3cb421d31ae1ec01c6e66d2551e1ceba5a4197a684e81fd2bfbd6e6224d080aaf54d645f0ed7b1418bf69fb3594dd1be6cf21f72a35b5f9b5ee46b26b9d2387cbc177f9a51c620d760721ba4feb72f5f01d9109bfbca81d22696685db2516ea6da40256d984f8e3302804afdc5bd6ede5abf9a618fa7312b4188c58168f41462aa3e72385033965141bb3e5b8444e869558992c7c45420013a48e6e58480f28f04a3888f11ff718867acbfbce8a7958c96bc7e2c8126ae6e93de8fc898a86aeb5655b3b92577c1591899c7f72196c478d755c40471b866f0e81f5371ba04b346289763dc819327e274d0b1bb9e9"
+  }
+ ],
+ "signed": {
+  "_type": "targets",
+  "delegations": {
+   "keys": {},
+   "roles": []
+  },
+  "expires": "2022-04-05T18:32:36Z",
+  "spec_version": "1.0",
+  "targets": {
+   "dependencies.json": {
+    "hashes": {
+     "sha256": "874ea3048bd86c273e0dc16b91867704db634d1356dbea7efa9bd7fbadb8190e",
+     "sha512": "fb938b5eaefc8093eb2290035384ae781a74065c15236d46e06bd39a52fb7f22d6b97e3df8aea64c1e8f8a1d5eaa407a5182fab69212fa70a0b6f2ba12f42358"
+    },
+    "length": 281
+   },
+   "hosts.json": {
+    "hashes": {
+     "sha256": "6b0119016eda3277f65eaeb7745b5a13e577528994c10d5829c63a05569bb2b6",
+     "sha512": "e61cc25fd62bee94418da30443d45583169737882e1301da1eccfc6e6dd0bb9b91aaa940c62d960097a957621ffb37c5af9424e6c955c9e7bcc6d80dfd31f0aa"
+    },
+    "length": 1931
+   },
+   "mirrors.json": {
+    "hashes": {
+     "sha256": "8769e5fb1092bc0137d06f3d0fd3c5dc6331ea7611014e7272638f134eec5442",
+     "sha512": "60bfa8d1bf740d1d3ed0aade7716060192b4752bbcdd4cf38becc02266741f0996b44bb4ccae2989877059e14058d1ec673cf70e6e25374ff393ebc38f6f4881"
+    },
+    "length": 92
+   },
+   "test-auth-repo": {
+    "hashes": {
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+     "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e"
+    },
+    "length": 0
+   }
+  },
+  "version": 12
+ }
+}

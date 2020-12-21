@@ -1,0 +1,5 @@
+{
+    "mirrors": [
+        "http://github.com/oll-test-repos/{org_name}-{repo_name}"
+    ]
+}
