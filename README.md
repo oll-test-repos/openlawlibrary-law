@@ -1,3 +1,3 @@
 # openlawlibrary-law
 
-Authentication repository which contains references outer authentication repositories
+Authentication repository which contains references other authentication repositories
