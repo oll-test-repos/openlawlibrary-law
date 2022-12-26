@@ -7,15 +7,15 @@
             "reader": false,
             "subdomains": {
                 "development": {
-                    "sanipueb/law-html": {
+                    "sanipueblo/law-html": {
                         "repo-name": "sanipueblo/law-html-development"
                     }
                 },
                 "preview": {
-                    "sanipueb/law-xml-codified": {
+                    "sanipueblo/law-xml-codified": {
                         "repo-name": "sanipueblo/law-xml-codified-preview"
                     },
-                    "sanipueb/law-html": {
+                    "sanipueblo/law-html": {
                         "repo-name": "sanipueblo/law-html-preview",
                         "pull": "authenticated"
                     },
