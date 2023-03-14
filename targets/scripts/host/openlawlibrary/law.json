@@ -1,0 +1,38 @@
+{
+    "data": {
+        "update": {
+            "changed": false,
+            "event": "event/failed",
+            "repo_name": "openlawlibrary/law",
+            "error_msg": "Update of openlawlibrary/law failed. One or more referenced authentication repositories could not be validated:\n Either speicfy library dir and name pair or path!\nValidation of authentication repository sanipueblo/law failed at revision bd655bf2e33a8e10303ee4389405e4dcb73630ba due to error: No working mirror was found:\n  '': ReplayedMetadataError()",
+            "auth_repo": {
+                "data": {
+                    "library_dir": "D:\\oll\\library\\oll-test-repos",
+                    "name": "openlawlibrary/law",
+                    "urls": [
+                        "https://github.com/oll-test-repos/openlawlibrary-law"
+                    ],
+                    "default_branch": "master",
+                    "custom": {},
+                    "conf_directory_root": "D:\\oll\\library\\oll-test-repos\\openlawlibrary",
+                    "out_of_band_authentication": null,
+                    "hosts": {}
+                },
+                "commits": {
+                    "before_pull": null,
+                    "new": [
+                        "55e1e1f29febe723c39300a607d6c1244ad868c1"
+                    ],
+                    "after_pull": "55e1e1f29febe723c39300a607d6c1244ad868c1"
+                }
+            },
+            "target_repos": {}
+        },
+        "state": {
+            "transient": {},
+            "persistent": {}
+        },
+        "config": {}
+    },
+    "commit": "55e1e1f29febe723c39300a607d6c1244ad868c1"
+}
