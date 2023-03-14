@@ -1,7 +1,7 @@
 {
     "dependencies": {
         "cityofsanmateo/law": {
-            "out-of-band-authentication": "bfcbc7db7adc3f43291a64b0572b6b114e63e98a",
+            "out-of-band-authentication": "5bbebaa5d9eb39d00181911f4d0a5356fcd73cef",
             "branch": "master"
         },
         "sanipueblo/law": {
