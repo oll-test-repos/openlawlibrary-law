@@ -2,7 +2,7 @@
  "signatures": [
   {
    "keyid": "f479a31c0727e47575b65111c1e35412fefc4050d5568db1080cc1cd5d85a921",
-   "sig": "59f398bc69c744eb2d06702e6557bfaee7ab2b0e9ee3cbfadbdc4d2e6b2cfe704fc9e64a337b31d24ca1fb431207571c1f0e704d49a58dad0f1352d08d79a61aab5dd8760b7af49723a7e0497cfba8f24625a2d80fcdb6818ad9bfe984780a98bfe5acc237c6906ae06ddd090b4f74400bff46dc1ba09c84b3f4576c77a4655b881def6fb604dd92fa0e3622d832d5d706bfb76befffbd3ea440d38292a318f57b892179253391664409033dcd34ba6563511e4b0abea5b8b29a70446ba91ee96e1009d274e5ef64f9629260fd33af03d5b3233249c7362c14cee416feb3209acd2b44be76b50d7037b06224ac34b75e8e63aaddabd985f9a9ac3cc477ba3a55"
+   "sig": "8fcddc8c3d3628a01b1201fd99ed04d1981128ec798727a702b4327a63038cf930f433ade5bdf9c06d8a2e7c85162657eaf5b28153531765afc2b16a2d8e1b636cc915332bc9b5079c5dda17947263f0157f17b9f3bf2f1040eef1befad34f4e259470fd5b9cebcc6c21406c1b62a1b3aafa9d9c7151c42057d54c64f8641fa152ec9e8381adae04075d828c6c0c7c2974fdd684da5e79dea8245d2025ed47f623fd402e2b0ab8b71c704c21ba7181af2dda2ce6f8375af02c3087aa350733f262e420d453e59329ade40c02588841465ca88ce7efffdbfdd6b2b0a84e1d47c14e1b31b2af367d9d1bf705af98a73973438e58bb2460164b2f67239c50df41f1"
   }
  ],
  "signed": {
@@ -11,7 +11,7 @@
    "keys": {},
    "roles": []
   },
-  "expires": "2023-06-12T23:09:53Z",
+  "expires": "2023-06-13T19:48:27Z",
   "spec_version": "1.0.0",
   "targets": {
    "dependencies.json": {
@@ -77,20 +77,6 @@
     },
     "length": 1189
    },
-   "scripts/host/openlawlibrary/law.json": {
-    "hashes": {
-     "sha256": "da585dcc3065a627ac65a78e13796e25a4eee8d180071508ffd8f789b6a86c9c",
-     "sha512": "edb8efa8c7fcf04a7a2ae6644006ea6245c8aab0a60ea9325cb2877dbc612c90ac5cbcc8fe2d37fae3741361fa8bab6583fa1e2d9568e305ecb9370d1526f99b"
-    },
-    "length": 1637
-   },
-   "scripts/host/openlawlibrary/root_auth_repo.json": {
-    "hashes": {
-     "sha256": "8bb55080565cb30797b6d07c0aa5fa536525c4372463e21313ddd66679d9a668",
-     "sha512": "161d70589d98e2b3e524cf5bb64b3cd6bd4053fcc3efbcfb324748adfa4f8c199f13d2e76369a3595d0a5f369007df83fb52081fe5517ecc4abccda54d86cfa5"
-    },
-    "length": 1595
-   },
    "test-auth-repo": {
     "hashes": {
      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -99,6 +85,6 @@
     "length": 0
    }
   },
-  "version": 20
+  "version": 21
  }
 }
