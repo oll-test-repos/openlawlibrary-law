@@ -1,0 +1,20 @@
+{
+    "repositories": {
+        "openlawlibrary/law-xml": {
+           "custom": {
+                "type":"xml",
+                "allow-unauthenticated-commits":true,
+                "serve":"latest",
+                "serve-prefix":"_uncodified_xml"
+           }
+        },
+        "openlawlibrary/law-static-assets": {
+            "custom": {
+                "type":"static-assets",
+                "allow-unauthenticated-commits":true,
+                "serve":"latest",
+                "location_regex":"~.+(_document|_reader).+$"
+            }
+        }
+    }
+}
