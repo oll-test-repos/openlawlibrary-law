@@ -1,5 +1,9 @@
 {
     "dependencies": {
+        "DCCouncil/law": {
+            "out-of-band-authentication": "5a3552085cb5e69b06a3526df187293a1bdb5332",
+            "branch": "main"
+        },
         "cityofsanmateo/law": {
             "out-of-band-authentication": "5bbebaa5d9eb39d00181911f4d0a5356fcd73cef",
             "branch": "master"
