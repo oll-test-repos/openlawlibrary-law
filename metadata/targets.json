@@ -2,7 +2,7 @@
  "signatures": [
   {
    "keyid": "f479a31c0727e47575b65111c1e35412fefc4050d5568db1080cc1cd5d85a921",
-   "sig": "88d47536803c7937a62af351cd7e94f958f5b70e83735ba9b9e56459e1133fef740c8f0cd093bcff0a1ef7b1f8f6d281dcfa3b73ad88458a76a4ec62ca557bc33af5ef13a9b14136210ac1665cff27f212fd2b3b895308d566c4e4f67ff3696465cef00b7bf663531fc99549dcfef3bcf446339dad86ce58ade11ba2df9f3bde4efbc15d455d5511d248777ef17f8eb5a32abc630a9cb14e45ab84a19358f665015fb9d54e5948a7219fbad4ae833bd51c6cf7e7b493bb00a3d6effb74726a85d7a048208d80ec27085d65e29df43edf6fff188674caba1de30f917bbdb6d37efe5aa14613c76371d8d5b83872b9cb1459687673855d36ab89c2abf7da5c8e44"
+   "sig": "563b93894e80d461a532b85c3a8f9ffc0bb6c616738b52e5ebfab5edbac14ee2a5408862ba9058a19ace6f9492c2905cd0f5d808711b0c0006c8ff8c3abd82e5be0dd1df84d18607045b9196c06cde7e0d7e9f5dace8853be3b5fee7bb30ffd7a097dc50ed19652ca97c301025c363b914ab470b21fd11f8aec2ccce9a70acd6d714de87d49bbfaeab6f4db88f6d9d7f1946e77b4eeb114e3b10e0d6761e7fdec4bd8afb222bb19c1830e7a1661cda07f272ee78bb8e7f17dd02b8df04bffcbe1021570bd6974c67b7e3c6ee7afbcefa7012db52c91a12d30cb39c5708e57993e16a46c6b7e746640f8f6425318f7d0ee326f50938df3fc2601152917358df74"
   }
  ],
  "signed": {
@@ -11,7 +11,7 @@
    "keys": {},
    "roles": []
   },
-  "expires": "2023-09-26T14:14:48Z",
+  "expires": "2023-10-24T17:39:24Z",
   "spec_version": "1.0.0",
   "targets": {
    "dependencies.json": {
@@ -35,42 +35,42 @@
     },
     "length": 160
    },
-   "scripts/host/completed/script1.py": {
+   "scripts/update/completed/script1.py": {
     "hashes": {
      "sha256": "3203189372b781ba61941cbe595700314ae0dcc3efd373150d3e0a2a6231d749",
      "sha512": "9cb4a85fce216ee57b8328eda395778875437975c85da6896819735fd08dc6ac14b6352b61bef779e6b210e68b80565e22ae8db85ef0a33622f989dba20e0b04"
     },
     "length": 1195
    },
-   "scripts/host/completed/script2.py": {
+   "scripts/update/completed/script2.py": {
     "hashes": {
      "sha256": "ce345107323c9dccac868b5a9399bd33f86540d671758449e825035280fa4acc",
      "sha512": "f8d9b81a5f9864e4d6526d93eb1f3a5bdf850fa2290b5a751f2b93e50b5d945e66f5ae304a432b7a0d5a1bdf84b1722813b6a589f79461aa31abe38ddee8a8c3"
     },
     "length": 1342
    },
-   "scripts/host/completed/script3.py": {
+   "scripts/update/completed/script3.py": {
     "hashes": {
      "sha256": "7dc554451e628255716e184ec300e90f86cdf966c664866009c587eb0c9b9f04",
      "sha512": "11348ea262d62f75999b86a6096e2447b13c195cd342296c8d512fedfe6eb332d4059f51157b6e187bb8c5bb4fd7bbdf9c6839f9560eba4b981ad4f43b2e6717"
     },
     "length": 1193
    },
-   "scripts/host/completed/script4.py": {
+   "scripts/update/completed/script4.py": {
     "hashes": {
      "sha256": "3830dc2e1b9ffae3f3aa579d15a3391f4d1bd833c6c9215de1677a331853dd8b",
      "sha512": "e271f48e74414086afa4d592ba8fd9932c42d467df65c16c87c24d5bd73884450fc6abf80a8c1f422048b2f036328b487cc40aba1d5474726824a3bb92181f73"
     },
     "length": 1196
    },
-   "scripts/host/completed/script5.py": {
+   "scripts/update/completed/script5.py": {
     "hashes": {
      "sha256": "7c93d3a18229329e2ac7a98b168090be9ac23f52c905ddbd50a24cc17a261290",
      "sha512": "f70c45f3e6a4c39d7e7ef35e9a277626a99b7ff3d3d436bdfeb268f5c50a6300feae4b4c3a8d19feea8bc809108d93c6bd0857e79cb95992b53a779f1d059267"
     },
     "length": 1185
    },
-   "scripts/host/completed/script6.py": {
+   "scripts/update/completed/script6.py": {
     "hashes": {
      "sha256": "eac2b373c015340fc1375ffbf23e935a5ab72e6aaf16a9fe8f91dd714a1073e4",
      "sha512": "24114487a235f4fa0359f1363db16b0d67337f2850d8c7996ffb019c00e0195897f4872f91ce0078dda82a14de13c21a58df21459a58ed9a84a836e670dfc3fb"
@@ -85,6 +85,6 @@
     "length": 0
    }
   },
-  "version": 22
+  "version": 23
  }
 }
