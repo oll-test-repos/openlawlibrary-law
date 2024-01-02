@@ -1,0 +1,23 @@
+{
+  "repositories": {
+    "openlawlibrary/open-law-html": {
+      "custom": {
+        "type": "html",
+        "preview": "git@github.com:openlawlibrary/open-law-html-preview.git",
+        "serve": "historical",
+        "location_regex": "/",
+        "routes": [".*"]
+      }
+    },
+    "openlawlibrary/law-static-assets": {
+      "custom": {
+        "type": "static-assets",
+        "allow-unauthenticated-commits": true,
+        "serve": "latest",
+        "is_fallback": true,
+        "location_regex": "~.+(_document|_reader).+$",
+        "routes": [".*_document/.*", "_reader/.*"]
+      }
+    }
+  }
+}

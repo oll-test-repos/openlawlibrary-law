@@ -16,7 +16,7 @@
             "out-of-band-authentication": "0194e849e4adccc188ab3df9cb7ff27e49299133",
             "branch": "master"
         },
-        "lco/law": {
+        "lco-nsn/law": {
             "out-of-band-authentication": "13685e1489356abb1505d461bc0fefef9c25319d",
             "branch": "main"
         },
