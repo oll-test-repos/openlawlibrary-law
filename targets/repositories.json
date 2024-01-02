@@ -3,6 +3,7 @@
     "openlawlibrary/open-law-html": {
       "custom": {
         "type": "html",
+        "serve": "latest",
         "routes": [".*"]
       }
     },
