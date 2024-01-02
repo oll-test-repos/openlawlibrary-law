@@ -3,9 +3,6 @@
     "openlawlibrary/open-law-html": {
       "custom": {
         "type": "html",
-        "preview": "git@github.com:openlawlibrary/open-law-html-preview.git",
-        "serve": "historical",
-        "location_regex": "/",
         "routes": [".*"]
       }
     },
